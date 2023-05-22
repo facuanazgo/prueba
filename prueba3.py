@@ -1,2 +1,2 @@
 print("cofran prueba 3")
-prueba("oscar prueba 4")
+print("oscar prueba 4")
